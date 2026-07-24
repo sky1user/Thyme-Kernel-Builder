@@ -1,9 +1,10 @@
-[  {
+[
+  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "kernel_xiaomi_thyme",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme.git",
+      "branch": "thirteen",
+      "device": "thyme"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -14,7 +15,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "12",
         "name": "clang"
       }
     ],
