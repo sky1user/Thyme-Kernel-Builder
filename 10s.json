@@ -1,12 +1,12 @@
 [
   {
     "kernelSource": {
-      "name": "DogDayAndroid",
-      "repo": "https://codeberg.org/DogDayAndroid/android_kernel_xiaomi_thyme",
-      "branch": "lineage-20.0",
+      "name": "kernel_xiaomi_sm8250_mod",
+      "repo": "https://github.com/londbell/kernel_xiaomi_sm8250_mod.git",
+      "branch": "android14-lineage21-mod",
       "device": "thyme"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
