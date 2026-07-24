@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "kernel_xiaomi_thyme",
-      "repo": "https://github.com/londbell/kernel_xiaomi_sm8250_mod.git",
-      "branch": "main",
+      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme.git",
+      "branch": "thirteen",
       "device": "thyme"
     },
     "withKernelSU": true,
