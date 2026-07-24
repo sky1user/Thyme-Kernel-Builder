@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_thyme",
-      "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme.git",
-      "branch": "thirteen",
+      "name": "kernel_xiaomi_sm8250_mod",
+      "repo": "https://github.com/londbell/kernel_xiaomi_sm8250_mod.git",
+      "branch": "android14-lineage21-mod",
       "device": "thyme"
     },
     "withKernelSU": true,
@@ -15,7 +15,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "12",
+        "branch": "11",
         "name": "clang"
       }
     ],
